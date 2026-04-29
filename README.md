@@ -45,8 +45,7 @@ I’m fascinated by real-time systems and love building problem solutions from s
 ---
 
 ## 🌐 Connect with me
-
-<p align="left" style="margin-right: 10px;"
+<p align="left" style="display: flex; gap: 15px; justify-content: start; align-items: start;">
 <a href="https://linkedin.com/in/moinulilm10/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://discord.gg/moinulilm10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 <a href="https://dev.to/moinullm10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="30" width="40" /></a>
@@ -54,21 +53,6 @@ I’m fascinated by real-time systems and love building problem solutions from s
 <a href="https://www.leetcode.com/moinulilm_10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 </p>
 
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/moinulilm10/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" style="margin-right: 10px;" />
-  </a><a href="https://dev.to/moinullm10" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="30" width="40" style="margin-right: 10px;" />
-  </a><a href="https://stackoverflow.com/users/moinul-islam" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" style="margin-right: 10px;" />
-  </a><a href="https://www.leetcode.com/moinulilm_10" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" style="margin-right: 10px;" />
-  </a><a href="https://discord.gg/moinulilm10" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
-  </a>
-</p>
 <br>
 
 ## Tech Stack
