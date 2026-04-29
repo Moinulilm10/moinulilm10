@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moinulilm10" alt="moinulilm10" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **System Design — High-Level Design (HLD) & Low-Level Design (LLD), Designing scalable, distributed systems**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://moinuldev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://moinuldev.netlify.app/](https://moinuldev.netlify.app/)
 
 - 📫 How to reach me **moinulilm10@gmail.com**
 
@@ -17,7 +15,7 @@
 
 - ⚡ Fun fact **I’m fascinated by real-time systems and love building problem solutions from scratch, while constantly exploring how AI can solve real-world problems and yes, I debug better at night 🌙**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
