@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **System Design — High-Level Design (HLD) & Low-Level Design (LLD), Designing scalable, distributed systems**
 
-- 👨‍💻 All of my projects are available at [https://moinuldev.netlify.app/](https://moinuldev.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://moinuldev.netlify.app/)
 
 - 📫 How to reach me **moinulilm10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DPbl9smHquhbpCoIVXBv28Nmsyce5NJz/view?usp=sharing](in resume.)
+- 📄 Know about my experiences [in resume](https://drive.google.com/file/d/1DPbl9smHquhbpCoIVXBv28Nmsyce5NJz/view?usp=sharing)
 
 - ⚡ Fun fact **I’m fascinated by real-time systems and love building problem solutions from scratch, while constantly exploring how AI can solve real-world problems and yes, I debug better at night 🌙**
 
