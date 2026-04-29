@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=200&section=header&text=Moinul%20Islam&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=200&section=header&text=Moinul%20Islam&fontSize=40&fontColor=ffffff" width="98%" />
 </p>
 
 
@@ -81,6 +81,10 @@ I’m fascinated by real-time systems and love building problem solutions from s
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moinulilm10&theme=vue" width="98%" />
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moinulilm10&theme=vue" />
+</p>
+
 
 ## 🏅 Top Badges
 
@@ -95,7 +99,7 @@ I’m fascinated by real-time systems and love building problem solutions from s
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=120&section=footer" width="98%" />
 </p>
 
 
