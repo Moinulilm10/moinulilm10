@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=200&section=header&text=Moinul%20Islam&fontSize=40&fontColor=ffffff" width="98%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=200&section=header" width="98%" />
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Moinul Islam</h1>
 
@@ -9,13 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFA1&center=true&vCenter=true&width=750&height=100&lines=Full+Stack+Developer+(React+%7C+Next.js+%7C+Node.js);Building+Scalable+and+Real-Time+Web+Applications;Laravel+%7C+MongoDB+%7C+Socket.IO+Enthusiast;Exploring+System+Design+%7C+AI+%7C+Cloud+Systems;Always+Learning+%7C+Always+Building+🔥" alt="Typing SVG" />
 </p>
 
-
 <!-- <h3 align="center">Full Stack Developer focused on performance, scalability & real-time user experiences</h3> -->
-
 
 ## 🧑‍💻 About Me
 
-I am a Full Stack Developer focused on building scalable, high-performance, and real-time web applications.  
+I am a Full Stack Developer focused on building scalable, high-performance, and real-time web applications.
 I enjoy working across the stack and exploring how modern technologies like AI and system design can solve real-world problems.
 
 ### 🚀 Currently Activities
@@ -28,29 +25,33 @@ I enjoy working across the stack and exploring how modern technologies like AI a
 ---
 
 ## 👨‍💻 Projects
-- All of my projects are available at:  
+
+- All of my projects are available at:
   👉 [https://moinuldev.netlify.app/](https://moinuldev.netlify.app/)
 
-
 ## 📫 Contact Me
+
 - Email: **moinulilm10@gmail.com**
 
-
 ## 📄 Resume
-- Know about my experience:  
+
+- Know about my experience:
   👉 [View Resume](https://drive.google.com/file/d/1DPbl9smHquhbpCoIVXBv28Nmsyce5NJz/view?usp=sharing)
 
 ## ⚡ Fun fact
-I’m fascinated by real-time systems and love building problem solutions from scratch, while constantly exploring how AI can solve real-world problems and yes, I debug better at night 🌙
 
+I’m fascinated by real-time systems and love building problem solutions from scratch, while constantly exploring how AI can solve real-world problems and yes, I debug better at night 🌙
 
 ---
 
 <!-- ### Blogs posts -->
+
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect with me
+
 <p align="left">
 <a href="https://linkedin.com/in/moinulilm10/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://dev.to/moinullm10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="30" width="40" /></a>
@@ -60,54 +61,66 @@ I’m fascinated by real-time systems and love building problem solutions from s
 </p>
 <br>
 
-## 🛠️ Languages and Tools
+## Tech Stack
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
+<div align="left">
 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a>
+Frontend:
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/></a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-  <a href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3 schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<div align="left" style="display: flex; gap: 15px; justify-content: start; align-items: start;">
+  <img title="Next.js" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs" height="45" />
+  <img title="React" alt="React" src="https://skillicons.dev/icons?i=react" height="45" />
+  <img title="TypeScript" alt="TypeScript" src="https://skillicons.dev/icons?i=ts" height="45" />
+  <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=js" height="45" />
+  <img title="Redux" alt="Redux" src="https://skillicons.dev/icons?i=redux" height="45" />
+  <img title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="45" />
+  <img title="Redux" alt="Redux" src="https://skillicons.dev/icons?i=redux" height="45" />
+  <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html" height="45" />
+  <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" height="45" />
+</div>
 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a>
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/></a>
-</p>
+<br/>
 
+Backend & Databases:
+
+<div align="left" style="display: flex; gap: 15px; justify-content: start; align-items: start;">
+  <img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="45" />
+  <img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express" height="45" />
+  <img title="NestJS" alt="NestJS" src="https://skillicons.dev/icons?i=nestjs" height="45" />
+  <img title="PostgreSQL" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" height="45" />
+  <img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="45" />
+  <img title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql" height="45" />
+  <img title="Prisma" alt="Prisma" src="https://skillicons.dev/icons?i=prisma" height="45" />
+  <img title="Laravel" alt="Laravel" src="https://skillicons.dev/icons?i=laravel" height="45" />
+  <img title="PHP" alt="PHP" src="https://skillicons.dev/icons?i=php" height="45" />
+  <img title="Firebase" alt="Firebase" src="https://skillicons.dev/icons?i=firebase" height="45" />
+</div>
+
+<br/>
+
+AI & Automation:
+
+<div align="left" style="display: flex; gap: 15px; justify-content: start; align-items: start;">
+  <img title="OpenAI" alt="OpenAI" src="https://skillicons.dev/icons?i=openai" height="45" />
+  <img title="Vercel AI" alt="Vercel" src="https://skillicons.dev/icons?i=vercel" height="45" />
+  <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python" height="45" />
+</div>
+
+<br/>
+
+DevOps & Tools:
+
+<div align="left" style="display: flex; gap: 15px; justify-content: start; align-items: start;">
+  <img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker" height="45" />
+  <img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git" height="45" />
+  <img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github" height="45" />
+  <img title="Postman" alt="Postman" src="https://skillicons.dev/icons?i=postman" height="45" />
+  <img title="Jest" alt="Jest" src="https://skillicons.dev/icons?i=jest" height="45" />
+  <img title="VS Code" alt="VS Code" src="https://skillicons.dev/icons?i=vscode" height="45" />
+  <img title="Figma" alt="Figma" src="https://skillicons.dev/icons?i=figma" height="45" />
+  <img title="AWS" alt="AWS" src="https://skillicons.dev/icons?i=aws" height="45" />
+</div>
+</div>
 <br>
 
 ## 📈 GitHub Stats & Activity
@@ -117,7 +130,7 @@ I’m fascinated by real-time systems and love building problem solutions from s
 <img src="https://github-readme-stats.vercel.app/api?username=moinulilm10&show_icons=true&locale=en" alt="moinulilm10" width="59%"/>
 </p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moinulilm10&show_icons=true&locale=en" alt="moinulilm10" /></p> -->
+<!-- <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=moinulilm10&show_icons=true&locale=en" alt="moinulilm10" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moinulilm10&" alt="moinulilm10" /></p>
 
@@ -128,24 +141,16 @@ I’m fascinated by real-time systems and love building problem solutions from s
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moinulilm10&theme=vue" />
 </p>
 
-
 ## 🏅 Top Badges
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moinulilm10" alt="moinulilm10" /></a></p>
 
 <br>
 
-
 ## 👁 Total Visitors
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moinulilm10&label=Profile%20views&color=0e75b6&style=flat" alt="moinulilm10" /> </p>
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=120&section=footer" width="98%" />
 </p>
-
-
-
-
-
