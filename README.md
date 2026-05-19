@@ -71,6 +71,7 @@ Frontend:
   <img title="Redux" alt="Redux" src="https://skillicons.dev/icons?i=redux" height="45" />
   <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html" height="45" />
   <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" height="45" />
+  <img title="MaterialUI" alt="MaterialUI" src="https://skillicons.dev/icons?i=materialui" height="45" />
 </div>
 
 <br/>
@@ -81,12 +82,13 @@ Backend & Databases:
   <img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="45" />
   <img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express" height="45" />
   <img title="NestJS" alt="NestJS" src="https://skillicons.dev/icons?i=nestjs" height="45" />
+  <img title="Laravel" alt="Laravel" src="https://skillicons.dev/icons?i=laravel" height="45" />
+  <img title="PHP" alt="PHP" src="https://skillicons.dev/icons?i=php" height="45" />
   <img title="PostgreSQL" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" height="45" />
   <img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="45" />
   <img title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql" height="45" />
+  <img title="DynamoDB" alt="DynamoDB" src="https://skillicons.dev/icons?i=dynamodb" height="45" />
   <img title="Prisma" alt="Prisma" src="https://skillicons.dev/icons?i=prisma" height="45" />
-  <img title="Laravel" alt="Laravel" src="https://skillicons.dev/icons?i=laravel" height="45" />
-  <img title="PHP" alt="PHP" src="https://skillicons.dev/icons?i=php" height="45" />
   <img title="Firebase" alt="Firebase" src="https://skillicons.dev/icons?i=firebase" height="45" />
 </div>
 
@@ -95,9 +97,9 @@ Backend & Databases:
 AI & Automation:
 
 <div align="left" style="display: flex; gap: 15px; justify-content: start; align-items: start;">
-  <img title="OpenAI" alt="OpenAI" src="https://skillicons.dev/icons?i=openai" height="45" />
   <img title="Vercel AI" alt="Vercel" src="https://skillicons.dev/icons?i=vercel" height="45" />
   <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python" height="45" />
+  <img title="OpenAI" alt="OpenAI" src="https://skillicons.dev/icons?i=openai" height="45" />
 </div>
 
 <br/>
@@ -112,9 +114,10 @@ DevOps & Tools:
   <img title="Jest" alt="Jest" src="https://skillicons.dev/icons?i=jest" height="45" />
   <img title="VS Code" alt="VS Code" src="https://skillicons.dev/icons?i=vscode" height="45" />
   <img title="Figma" alt="Figma" src="https://skillicons.dev/icons?i=figma" height="45" />
-  <img title="AWS" alt="AWS" src="https://skillicons.dev/icons?i=aws" height="45" />
+  <img title="Netlify" alt="Netlify" src="https://skillicons.dev/icons?i=netlify" height="45" />
 </div>
 </div>
+
 <br>
 
 ## 📈 GitHub Stats & Activity
@@ -137,7 +140,11 @@ DevOps & Tools:
 
 ## 🏅 Top Badges
 
-<p align="left"> <a style="display: flex; gap: 15px; justify-content: start; align-items: start;" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moinulilm10" alt="moinulilm10" /></a></p>
+<p align="left"> 
+  <a style="display: flex; gap: 15px; justify-content: start; align-items: start;" href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=moinulilm10" alt="moinulilm10" style="margin-right: 15px;" />
+  </a>
+</p>
 
 <br>
 
