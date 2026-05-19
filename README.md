@@ -124,7 +124,7 @@ DevOps & Tools:
 <img src="https://github-readme-stats.vercel.app/api?username=moinulilm10&show_icons=true&locale=en" alt="moinulilm10" width="59%"/>
 </p>
 
-<!-- <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=moinulilm10&show_icons=true&locale=en" alt="moinulilm10" /></p> -->
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=moinulilm10&show_icons=true&locale=en" alt="moinulilm10" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moinulilm10&" alt="moinulilm10" /></p>
 
