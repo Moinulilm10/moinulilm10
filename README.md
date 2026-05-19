@@ -137,7 +137,7 @@ DevOps & Tools:
 
 ## 🏅 Top Badges
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moinulilm10" alt="moinulilm10" /></a></p>
+<p align="left"> <a style="display: flex; gap: 15px; justify-content: start; align-items: start;" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moinulilm10" alt="moinulilm10" /></a></p>
 
 <br>
 
