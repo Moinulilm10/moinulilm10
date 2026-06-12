@@ -180,7 +180,7 @@ I’m fascinated by real-time systems and love building problem solutions from s
 
 ## 👁 Total Visitors
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=moinulilm10&label=Profile%20views&color=0e75b6&style=flat" alt="moinulilm10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moinulilm10&label=Profile%20views&color=0e75b6&style=flat" alt="moinulilm10" /> </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:000000&height=120&section=footer" width="98%" />
