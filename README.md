@@ -77,7 +77,6 @@ I’m fascinated by real-time systems and love building problem solutions from s
   <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" height="45" />
   <img title="Sass" alt="Sass" src="https://skillicons.dev/icons?i=sass" height="45" />
   <img title="Graphql" alt="Graphql" src="https://skillicons.dev/icons?i=graphql" height="45" />
-  <img title="Vitest" alt="Vitest" src="https://skillicons.dev/icons?i=vitest" height="45" />
 </div>
 
 <br/>
