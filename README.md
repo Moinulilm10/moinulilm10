@@ -59,7 +59,10 @@ I’m fascinated by real-time systems and love building problem solutions from s
 
 <div align="left">
 
-Frontend:
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=javascript,typescript,c,cpp,py,bash,html,css)](https://github.com/moinulilm10)
+
+### Frontend:
 
 <div align="left" style="display: flex; gap: 15px; justify-content: start; align-items: start;">
   <img title="Next.js" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs" height="45" />
@@ -67,16 +70,19 @@ Frontend:
   <img title="TypeScript" alt="TypeScript" src="https://skillicons.dev/icons?i=ts" height="45" />
   <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=js" height="45" />
   <img title="Redux" alt="Redux" src="https://skillicons.dev/icons?i=redux" height="45" />
+  <img title="MaterialUI" alt="MaterialUI" src="https://skillicons.dev/icons?i=materialui" height="45" />
   <img title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="45" />
-  <img title="Redux" alt="Redux" src="https://skillicons.dev/icons?i=redux" height="45" />
+  <img title="Bootstrap CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=bootstrap" height="45" />
   <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html" height="45" />
   <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" height="45" />
-  <img title="MaterialUI" alt="MaterialUI" src="https://skillicons.dev/icons?i=materialui" height="45" />
+  <img title="Sass" alt="Sass" src="https://skillicons.dev/icons?i=sass" height="45" />
+  <img title="Graphql" alt="Graphql" src="https://skillicons.dev/icons?i=graphql" height="45" />
+  <img title="Vitest" alt="Vitest" src="https://skillicons.dev/icons?i=vitest" height="45" />
 </div>
 
 <br/>
 
-Backend & Databases:
+### Backend:
 
 <div align="left" style="display: flex; gap: 15px; justify-content: start; align-items: start;">
   <img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="45" />
@@ -84,43 +90,63 @@ Backend & Databases:
   <img title="NestJS" alt="NestJS" src="https://skillicons.dev/icons?i=nestjs" height="45" />
   <img title="Laravel" alt="Laravel" src="https://skillicons.dev/icons?i=laravel" height="45" />
   <img title="PHP" alt="PHP" src="https://skillicons.dev/icons?i=php" height="45" />
+  <img title="Graphql" alt="Graphql" src="https://skillicons.dev/icons?i=graphql" height="45" />
+</div>
+
+<br/>
+
+### Databases:
+
+<div align="left" style="display: flex; gap: 15px; justify-content: start; align-items: start;">
   <img title="PostgreSQL" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" height="45" />
   <img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="45" />
   <img title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql" height="45" />
   <img title="DynamoDB" alt="DynamoDB" src="https://skillicons.dev/icons?i=dynamodb" height="45" />
   <img title="Prisma" alt="Prisma" src="https://skillicons.dev/icons?i=prisma" height="45" />
   <img title="Firebase" alt="Firebase" src="https://skillicons.dev/icons?i=firebase" height="45" />
+  <img title="Supabase" alt="Supabase" src="https://skillicons.dev/icons?i=supabase" height="45" />
+  <img title="Sqlite" alt="Sqlite" src="https://skillicons.dev/icons?i=sqlite" height="45" />
 </div>
 
 <br/>
 
-AI & Automation:
+### AI & Automation:
 
 <div align="left" style="display: flex; gap: 15px; justify-content: start; align-items: start;">
   <img title="Vercel AI" alt="Vercel" src="https://skillicons.dev/icons?i=vercel" height="45" />
   <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python" height="45" />
-  <img title="OpenAI" alt="OpenAI" src="https://skillicons.dev/icons?i=openai" height="45" />
 </div>
 
 <br/>
 
-DevOps & Tools:
+### Testing & Monitoring Tools
+
+[![Testing & Monitoring](https://skillicons.dev/icons?i=sentry,cypress,jest,vitest,grafana,prometheus)](https://github.com/moinulilm10)
+
+<br/>
+
+### DevOps & Tools:
 
 <div align="left" style="display: flex; gap: 15px; justify-content: start; align-items: start;">
   <img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker" height="45" />
-  <img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git" height="45" />
-  <img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github" height="45" />
-  <img title="Postman" alt="Postman" src="https://skillicons.dev/icons?i=postman" height="45" />
+  <img title="Vercel AI" alt="Vercel" src="https://skillicons.dev/icons?i=vercel" height="45" />
+  <img title="Heroku" alt="Heroku" src="https://skillicons.dev/icons?i=Heroku" height="45" />
   <img title="Jest" alt="Jest" src="https://skillicons.dev/icons?i=jest" height="45" />
-  <img title="VS Code" alt="VS Code" src="https://skillicons.dev/icons?i=vscode" height="45" />
-  <img title="Figma" alt="Figma" src="https://skillicons.dev/icons?i=figma" height="45" />
   <img title="Netlify" alt="Netlify" src="https://skillicons.dev/icons?i=netlify" height="45" />
+  <img title="Nginx" alt="Nginx" src="https://skillicons.dev/icons?i=nginx" height="45" />
+  <img title="GithubActions" alt="GithubActions" src="https://skillicons.dev/icons?i=githubactions" height="45" />
 </div>
+
+<br/>
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=redis,windows,linux,ubuntu,notion,git,github,vscode,postman,figma)](https://github.com/moinulilm10)
+
 </div>
 
 <br>
 
-## 📈 GitHub Stats & Activity
+### 📈 GitHub Stats & Activity
 
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moinulilm10&show_icons=true&locale=en&layout=compact" alt="moinulilm10" width="39%"/>
@@ -132,7 +158,11 @@ DevOps & Tools:
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moinulilm10&" alt="moinulilm10" /></p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moinulilm10&theme=vue" width="98%" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=moinulilm10&theme=vue" width="98%" /> -->
+  
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=moinulilm10&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinulilm10&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| ------------- | ------------- |
+
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moinulilm10&theme=vue" />
