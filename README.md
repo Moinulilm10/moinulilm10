@@ -130,7 +130,7 @@ I’m fascinated by real-time systems and love building problem solutions from s
 <div align="left" style="display: flex; gap: 15px; justify-content: start; align-items: start;">
   <img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker" height="45" />
   <img title="Vercel AI" alt="Vercel" src="https://skillicons.dev/icons?i=vercel" height="45" />
-  <img title="Heroku" alt="Heroku" src="https://skillicons.dev/icons?i=Heroku" height="45" />
+  <img title="Heroku" alt="Heroku" src="https://skillicons.dev/icons?i=heroku" height="45" />
   <img title="Jest" alt="Jest" src="https://skillicons.dev/icons?i=jest" height="45" />
   <img title="Netlify" alt="Netlify" src="https://skillicons.dev/icons?i=netlify" height="45" />
   <img title="Nginx" alt="Nginx" src="https://skillicons.dev/icons?i=nginx" height="45" />
